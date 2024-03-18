@@ -1,5 +1,4 @@
 "use client";
-import EditableImage from "@/components/layout/EditableImage";
 import InfoBox from "@/components/layout/InfoBox";
 import SuccessBox from "@/components/layout/SuccessBox";
 import UserForm from "@/components/layout/UserForm";
